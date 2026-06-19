@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\doki\Downloads\za dorijana\za dorijana\C++\pmt\pmt\main.cpp(200,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\doki\Downloads\za dorijana\za dorijana\C++\pmt\pmt\main.cpp(207,11): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\doki\Downloads\za dorijana\za dorijana\C++\pmt\pmt\main.cpp(245,44): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  pmt.vcxproj -> C:\Users\doki\Downloads\za dorijana\za dorijana\C++\pmt\Debug\pmt.exe
